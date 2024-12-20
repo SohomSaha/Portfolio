@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter } from 'react-router-dom'
 import {About,Contact,Experience,Hero,Navbar,Tech,Works} from './components'
-import Stars from './components/canvas/Stars'
+import {StarsCanvas} from './components/canvas'
 function App() {
   return (
     <BrowserRouter>
@@ -16,7 +16,7 @@ function App() {
       <Works/>
       <div className='relative z-0'>
         <Contact/>
-        <Stars/>
+        <StarsCanvas/>
       </div>
     </div>
     </BrowserRouter>

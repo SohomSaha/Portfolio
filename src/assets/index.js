@@ -25,9 +25,9 @@ import Unified_Mentor from "./company/Unified_Mentor.ico"
 import sih from "./company/sih.ico"
 import girlcode from "./company/girlcode.ico"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import bookbuzz from "./bookbuzz.png"
+import buildstack from "./buildstack.png"
+import chatapp from "./chatapp.png"
 
 export {
   logo,
@@ -54,7 +54,7 @@ export {
   Unified_Mentor,
   sih,
   girlcode,
-  carrent,
-  jobit,
-  tripguide,
+  bookbuzz,
+  buildstack,
+  chatapp
 };
