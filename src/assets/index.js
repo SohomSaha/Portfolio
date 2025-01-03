@@ -25,7 +25,7 @@ import Unified_Mentor from "./company/Unified_Mentor.ico"
 import sih from "./company/sih.ico"
 import girlcode from "./company/girlcode.ico"
 
-import bookbuzz from "./bookbuzz.png"
+import tunify from "./tunify.png"
 import buildstack from "./buildstack.png"
 import chatapp from "./chatapp.png"
 
@@ -54,7 +54,7 @@ export {
   Unified_Mentor,
   sih,
   girlcode,
-  bookbuzz,
+  tunify,
   buildstack,
   chatapp
 };

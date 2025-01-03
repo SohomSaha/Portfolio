@@ -18,7 +18,7 @@ import {
   Unified_Mentor,
   sih,
   girlcode,
-  bookbuzz,
+  tunify,
   buildstack,
   chatapp,
   threejs,
@@ -198,9 +198,8 @@ const projects = [
     source_code_link: "https://github.com/Enigma-52/Final-Year-Project-HITK",
   },
   {
-    name: "BookBuzz",
-    description:
-      "A comprehensive platform for discovering and accessing online books, both free and paid. Features user authentication, a responsive interface, and seamless navigation. ",
+    name: "Tunify",
+    description:"Tunify is an online music app with real-time user activity, messaging, and personalized recommendations, offering a social and seamless listening experience.",
     tags: [
       {
         name: "react",
@@ -214,9 +213,13 @@ const projects = [
         name: "node",
         color: "pink-text-gradient",
       },
+      {
+        name: "socket.io",
+        color: "blue-text-gradient",
+      }
     ],
-    image: bookbuzz,
-    source_code_link: "https://github.com/SohomSaha/bookbuzz",
+    image: tunify,
+    source_code_link: "https://github.com/SohomSaha/Tunify",
   },
 ];
 
